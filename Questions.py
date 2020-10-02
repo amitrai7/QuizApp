@@ -49,8 +49,8 @@ quiz = {
     advance_level: [("1.   Which of these about a set is not true?"
                      "\n\t1)   Mutable data type"
                      "\n\t2)   Allows duplicate values"
-                     "\n\t3)   Data type with unordered values"
-                     "\n\t4)   Immutable data type", 4),
+                     "\n\t3)   Immutable Data type"
+                     "\n\t4)   Data type with unordered values", 3),
 
                     ("2.   Which is the most appropriate definition for recursion?"
                      "\n\t1)   A function that calls itself"
